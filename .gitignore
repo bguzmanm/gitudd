@@ -1,0 +1,3 @@
+# Archivos que no deseo se gestione la versión
+.vscode
+addcosa*.*
